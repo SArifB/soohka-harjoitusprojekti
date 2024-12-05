@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HarjoitusProjekti</string>
+    <string name="alarm_page_title">Hälytys sivu</string>
+    <string name="alarm_page_message">Harjoitus projekti hälytys</string>
+    <string name="alarm_page_button">Aseta hälytys</string>
+    <string name="home_page_weather_button">Mene sää sivulle</string>
+    <string name="home_page_profile_button">Mene profiili sivulle</string>
+    <string name="home_page_alarm_button">Mene hälytys sivulle</string>
+    <string name="profile_page_title">Profiili sivu</string>
+    <string name="profile_page_name_input_label">Nimi</string>
+    <string name="profile_page_city_input_label">Kaupunki</string>
+    <string name="profile_page_button">Tallenna</string>
+    <string name="weather_page_title">Sää sivu</string>
+    <string name="weather_page_input_label">Valitse kaupunki</string>
+    <string name="weather_page_description">Kuvaus</string>
+    <string name="weather_page_temperature">Lämpötila</string>
+    <string name="weather_page_wind_speed">Tuulen nopeus</string>
+</resources>

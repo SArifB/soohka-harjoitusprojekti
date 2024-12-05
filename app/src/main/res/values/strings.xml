@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AssignmentProject</string>
+    <string name="alarm_page_title">Alarm page</string>
+    <string name="alarm_page_message">Assignment project alarm</string>
+    <string name="alarm_page_button">Setup alarm</string>
+    <string name="home_page_weather_button">Go to weather page</string>
+    <string name="home_page_profile_button">Go to profile page</string>
+    <string name="home_page_alarm_button">Go to alarm page</string>
+    <string name="profile_page_title">Profile page</string>
+    <string name="profile_page_name_input_label">Name</string>
+    <string name="profile_page_city_input_label">City</string>
+    <string name="profile_page_button">Save</string>
+    <string name="weather_page_title">Weather page</string>
+    <string name="weather_page_input_label">Select city</string>
+    <string name="weather_page_description">Description</string>
+    <string name="weather_page_temperature">Temperature</string>
+    <string name="weather_page_wind_speed">Wind Speed</string>
+</resources>
