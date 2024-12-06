@@ -15,4 +15,7 @@
     <string name="weather_page_description">Description</string>
     <string name="weather_page_temperature">Temperature</string>
     <string name="weather_page_wind_speed">Wind Speed</string>
+    <string name="home_page_message">Welcome home</string>
+    <string name="home_page_title">Home page</string>
+    <string name="weather_page_message">Weather</string>
 </resources>

@@ -85,7 +85,8 @@ fun WeatherCard(
     ) {
         Column(modifier = Modifier.padding(16.dp)) {
             Text(
-                text = "$city Weather", style = MaterialTheme.typography.headlineSmall
+                text = "$city ${stringResource(R.string.weather_page_message)}",
+                style = MaterialTheme.typography.headlineSmall
             )
             Spacer(modifier = Modifier.height(16.dp))
             Field("${stringResource(R.string.weather_page_description)}: ${weatherData.desc}")

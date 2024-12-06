@@ -16,4 +16,7 @@
     <string name="weather_page_description">Kuvaus</string>
     <string name="weather_page_temperature">Lämpötila</string>
     <string name="weather_page_wind_speed">Tuulen nopeus</string>
+    <string name="home_page_message">Tervetuloa kotiin</string>
+    <string name="home_page_title">Koti sivu</string>
+    <string name="weather_page_message">Sää</string>
 </resources>

@@ -30,7 +30,7 @@ fun HomePage(
 ) {
     val user by mainViewModel.userSettings.collectAsState()
 
-    setTitle("Home page")
+    setTitle(stringResource(R.string.home_page_title))
 
     Column(
         modifier = modifier
@@ -39,7 +39,7 @@ fun HomePage(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.spacedBy(16.dp, alignment = Alignment.CenterVertically),
     ) {
-        Text("Welcome home ${user.name}")
+        Text("${stringResource(R.string.home_page_message)} ${user.name}")
         Button(onClick = { navController.navigate(Routes.weather()) }) {
             Text(stringResource(R.string.home_page_weather_button))
         }
